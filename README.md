@@ -1,0 +1,2 @@
+# mt_plugin_UnlimitedBlogSelector
+管理画面プルダウンメニューにブログ全件表示できるようになるプラグイン
